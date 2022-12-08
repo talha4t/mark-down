@@ -20,10 +20,10 @@ _This is an Italic tag_
 ### double underscore for bold
 __Its a bolded line__
 
-### Italic
+### Italic for single asterisk both side '*'
 *Whats my name*
 
-### Bold
+### Bold single double both side '*'
 **Bold this line**
 
 ### "~" for strike through
